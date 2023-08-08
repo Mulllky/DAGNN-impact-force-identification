@@ -1,6 +1,6 @@
 # Impact Force Reconstruction and Localization using Distance-assisted Graph Neural Network
 
-![License](https://img.shields.io/badge/License-MIT-green.svg)
+![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
 
 ## Table of Contents
 

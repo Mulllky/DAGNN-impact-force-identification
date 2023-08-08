@@ -1,0 +1,6 @@
+audtorch==0.6.4
+h5py==3.7.0
+matplotlib==3.6.2
+numpy==1.21.5
+scipy==1.10.0
+torch==1.12.1

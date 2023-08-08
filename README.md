@@ -9,7 +9,8 @@
 - [Dependencies](#dependencies)
 - [Installation](#installation)
 - [Files and Scripts](#files-and-scripts)
-- [References](#references)
+- [Flow Chart](#flow-chart)
+- [Cite](#cite)
 - [Contact](#contact)
 
 ## Abstract
@@ -64,7 +65,22 @@ In this paper, we introduce a novel impact force identification approach known a
 - **train.py:** Trains the model.
 - **utils.py:** Evaluates trained model outputs.
 
-## References
+## Flow chart
+
+The flow chart of DAGNN model for impact force reconstruction and localization:
+![DAGNN-flow](sec-methond-flow.png)
+
+The computational graph for the first layer of DAGNN model:
+![DAGNN-layer1](sec-methond-DAGNN-GE.png)
+
+The computational graph for the second layer of DAGNN model:
+![DAGNN-layer2](sec-methond-DAGNN-II.png)
+
+The computational graph for the third layer of DAGNN model:
+![DAGNN-layer3](sec-methond-DAGNN-DF.png)
+
+## Cite
+Please refer to the following paper for more details and cite us:
 
 C. Huang, C. Tao, H. Ji, J. Qiu, "Impact force reconstruction and localization using Distance-assisted Graph Neural Network," Mechanical Systems and Signal Processing. 200 (2023) 110606. [DOI](https://doi.org/10.1016/j.ymssp.2023.110606)
 
